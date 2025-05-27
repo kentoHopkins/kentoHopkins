@@ -1,10 +1,10 @@
 # 🌟About Me
-👨‍🎓 I am a Computer Science student at University of North Carolina at Charlotte, with a concentration in Artificial Intelligence, Robotics, and Gaming.
-💪 As the President of Charlotte AI Research, I lead initiatives that provide over 200 students with hands-on experience in AI technologies through workshops, projects, and collaborative learning.
-🔬 I am currently involved in research projects focused on Computer Vison, Data Visualization, Data Engineering, and Knowledge Tracing, utilizing tools such as Neo4j Bloom, Cypher, and Python.
-🤝 I am deeply passionate about AI/ML and software engineering, and I am actively seeking opportunities to collaborate on innovative projects in these domains.
-📚 I am committed to continuous learning and growth, and I look forward to learning from industry professionals.
-🌱 I have a strong intellectual curiosity and enjoy exploring a broad range of subjects and interdisciplinary fields.
+👨‍🎓 I am a Computer Science student at University of North Carolina at Charlotte, with a concentration in Artificial Intelligence, Robotics, and Gaming. \
+💪 As the President of Charlotte AI Research, I lead initiatives that provide over 200 students with hands-on experience in AI technologies through workshops, projects, and collaborative learning. \
+🔬 I am currently involved in research projects focused on Computer Vison, Data Visualization, Data Engineering, and Knowledge Tracing, utilizing tools such as Neo4j Bloom, Cypher, and Python. \
+🤝 I am deeply passionate about AI/ML and software engineering, and I am actively seeking opportunities to collaborate on innovative projects in these domains. \
+📚 I am committed to continuous learning and growth, and I look forward to learning from industry professionals. \
+🌱 I have a strong intellectual curiosity and enjoy exploring a broad range of subjects and interdisciplinary fields. \
 
 
 <!--
