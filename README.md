@@ -39,7 +39,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kentoHopkins&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kentoHopkins&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kentoHopkins,KentoHop&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kentoHopkins&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
